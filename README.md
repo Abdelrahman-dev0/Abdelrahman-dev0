@@ -17,10 +17,10 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
-![Abdelrahman-dev0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-dev0&theme=radical&show_icons=true&hide_border=false&layout=compact&card_width=350)
+![abdulrahmanaymann's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanaymann&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![Abdelrahman-dev0's Stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-dev0&theme=radical&show_icons=true&hide_border=false&count_private=true&card_width=350)
+![abdulrahmanaymann's Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanaymann&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Abdelrahman-dev0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-dev0&theme=radical&hide_border=false&card_width=350)
+![abdulrahmanaymann's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanaymann&theme=tokyonight&hide_border=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-dev0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-dev0" /> </p>
