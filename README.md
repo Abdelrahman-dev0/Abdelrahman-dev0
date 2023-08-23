@@ -24,4 +24,4 @@
 ![Abdelrahman-dev0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-dev0&theme=radical&hide_border=false&card_width=350)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdelrahman-dev0&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-dev0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-dev0" /> </p>
