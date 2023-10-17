@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Ayman</h1>
 <h3 align="center">A Computer Science Student.</h3>
 
-- 🌱 I’m currently learning **FLUTTER Development**
 - 📫 How to reach me **abdelrhmanayman002@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
