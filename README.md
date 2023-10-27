@@ -44,12 +44,10 @@
 
 ![abdulrahmanaymann's Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanaymann&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![abdulrahmanaymann's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanaymann&theme=tokyonight&hide_border=true)
-
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abdulrahmanaymann/abdulrahmanaymann/output/snake.svg" alt="Snake animation" />
 
 ###
