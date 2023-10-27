@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-dev0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-dev0" /> </p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
 ###
