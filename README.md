@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Ayman</h1>
 <h3 align="center">A Computer Science Student.</h3>
 
-- 📫 How to reach me **abdelrhmanayman002@gmail.com** or [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abdi0i) 
+- 📫 How to reach me **abdelrhmanayman002@gmail.com** or <a href="https://discord.gg/abdi0i" target="blank"><img align="center"
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
