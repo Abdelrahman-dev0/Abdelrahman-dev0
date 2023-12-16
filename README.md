@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Ayman</h1>
-<h3 align="center">A Computer Science Student.</h3>
-
 ###
 
 <div align="center">
