@@ -7,6 +7,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=abdulrahmanaymann&icon=0&color=1)](https://visitcount.itsvg.in)
 
+- 🔭 I’m currently working on **.Net Projects**
+
+- 🌱 I’m currently learning **ASP.NET Core**
+
+- 💬 Ask me about **Web Development**
+
 - 📫 How to reach me **abdelrhmanayman002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
